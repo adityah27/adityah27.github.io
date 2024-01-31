@@ -870,6 +870,8 @@ a:hover {
   border-radius: 1rem;
   margin-bottom: 3rem;
   text-align: center;
+  height:550px;
+  max-height:550px;
 }
 
 .service-box:hover .ico-circle {
